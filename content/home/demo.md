@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: RECENT-POSTS
+widget_id: Weichaung Li
 headless: true
 weight: 15
 title: Academic Template
