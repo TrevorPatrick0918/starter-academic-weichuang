@@ -38,4 +38,4 @@ highlight_name: false
 ---
 Weichuang Li is currently an MSc student of computer science at the City University of Hong Kong. He obtained his bachelor's degree from Sichuan University in 2021.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv-weichuang-li-.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-weichuang-li-.pdf" "newtab" >}}resumé{{< /staticref >}}.
