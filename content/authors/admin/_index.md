@@ -1,5 +1,5 @@
 ---
-title: Weichuang Li(李伟创)
+title: Weichuang Li
 role: ""
 bio: My research interests include generative models, transfer learning, 3D
   vision and medical imaging.
@@ -36,6 +36,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Weichuang Li is currently an MSc student of computer science at the City University of Hong Kong. He obtained his bachelor's degree from Sichuan University in 2021.
+Weichuang Li(李伟创) is currently an MSc student of computer science at the City University of Hong Kong. He obtained his bachelor's degree from Sichuan University in 2021.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
