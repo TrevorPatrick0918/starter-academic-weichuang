@@ -23,30 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/U242WK985HAQ
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-03-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title:  Deep Learning Specialization
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+
+[comment]: <> (- certificate_url: https://www.edx.org)
+
+[comment]: <> (  date_end: "")
+
+[comment]: <> (  date_start: "2021-01-01")
+
+[comment]: <> (  description: Formulated informed blockchain models, hypotheses, and use cases.)
+
+[comment]: <> (  organization: edX)
+
+[comment]: <> (  organization_url: https://www.edx.org)
+
+[comment]: <> (  title: Blockchain Fundamentals)
+
+[comment]: <> (  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+
+[comment]: <> (- certificate_url: https://www.datacamp.com)
+
+[comment]: <> (  date_end: "2020-12-21")
+
+[comment]: <> (  date_start: "2020-07-01")
+
+[comment]: <> (  description: "")
+
+[comment]: <> (  organization: DataCamp)
+
+[comment]: <> (  organization_url: https://www.datacamp.com)
+
+[comment]: <> (  title: 'Object-Oriented Programming in R')
+
+[comment]: <> (  url: "")
 
 design:
   columns: '2' 
