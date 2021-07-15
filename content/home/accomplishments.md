@@ -31,38 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title:  Deep Learning Specialization
   url: ""
-
-[comment]: <> (- certificate_url: https://www.edx.org)
-
-[comment]: <> (  date_end: "")
-
-[comment]: <> (  date_start: "2021-01-01")
-
-[comment]: <> (  description: Formulated informed blockchain models, hypotheses, and use cases.)
-
-[comment]: <> (  organization: edX)
-
-[comment]: <> (  organization_url: https://www.edx.org)
-
-[comment]: <> (  title: Blockchain Fundamentals)
-
-[comment]: <> (  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
-
-[comment]: <> (- certificate_url: https://www.datacamp.com)
-
-[comment]: <> (  date_end: "2020-12-21")
-
-[comment]: <> (  date_start: "2020-07-01")
-
-[comment]: <> (  description: "")
-
-[comment]: <> (  organization: DataCamp)
-
-[comment]: <> (  organization_url: https://www.datacamp.com)
-
-[comment]: <> (  title: 'Object-Oriented Programming in R')
-
-[comment]: <> (  url: "")
+  
 
 design:
   columns: '2' 
