@@ -1,5 +1,5 @@
 ---
-title: Weichuang Li
+title: Weichuang Li(李伟创)
 role: ""
 bio: My research interests include generative models, transfer learning, 3D
   vision and medical imaging.
